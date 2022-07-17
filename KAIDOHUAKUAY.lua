@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua%22))()
-local Window = Library.CreateLib("Bit kup hup ", "DarkTheme")
+local Window = Library.CreateLib("Winnable Hub | Lazy", "DarkTheme")
 local Tab = Window:NewTab("kaido kuy kuy")
 local Section = Tab:NewSection("kaido")
 Section:NewButton("TP Quest", "ButtonInfo", function()
